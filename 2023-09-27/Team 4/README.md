@@ -1,11 +1,7 @@
 # Team Name: XXXXXXX
 
 Team members GitHub accounts: 
-- [@xxxxxxxxxxxxxxxxxxxx](https://www.github.com/xxxxxxxxxxxxxxxxxxxx)
-- [@xxxxxxxxxxxxxxxxxxxx](https://www.github.com/xxxxxxxxxxxxxxxxxxxx)
-- [@xxxxxxxxxxxxxxxxxxxx](https://www.github.com/xxxxxxxxxxxxxxxxxxxx)
-- [@xxxxxxxxxxxxxxxxxxxx](https://www.github.com/xxxxxxxxxxxxxxxxxxxx)
-- [@xxxxxxxxxxxxxxxxxxxx](https://www.github.com/xxxxxxxxxxxxxxxxxxxx)
+- [@Ele200](https://www.github.com/Ele200)
 - [@xxxxxxxxxxxxxxxxxxxx](https://www.github.com/xxxxxxxxxxxxxxxxxxxx)
 
 
